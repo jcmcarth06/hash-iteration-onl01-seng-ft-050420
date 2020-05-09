@@ -11,9 +11,4 @@ def happy_birthday(birthday_kids)
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
   end
 end
-  birthday_kids.each do |kids_name, age|
-    if age > 12
-      puts "You are too old for this."
-    else "Happy Birthday #{kids_na
-    end
-end
+
